@@ -9,11 +9,14 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+assets/.DS_Store
+assets/gsap-public/.DS_Store
 assets/gsap-public/esm/
 assets/gsap-public/src/
 assets/gsap-public/umd/
 assets/gsap-public/docs-link.html
 assets/gsap-public/getting-started-link.html
+assets/gsap-public/minified/.DS_Store
 assets/gsap-public/minified/CSSRulePlugin.min.js
 assets/gsap-public/minified/CSSRulePlugin.min.js.map
 assets/gsap-public/minified/Draggable.min.js
@@ -31,6 +34,7 @@ assets/gsap-public/minified/ScrollToPlugin.min.js.map
 assets/gsap-public/minified/ScrollTrigger.min.js.map
 assets/gsap-public/minified/TextPlugin.min.js
 assets/gsap-public/minified/TextPlugin.min.js.map
+assets/bootstrap/.DS_Store
 assets/bootstrap/css/bootstrap-grid.css
 assets/bootstrap/css/bootstrap-grid.css.map
 assets/bootstrap/css/bootstrap-grid.min.css
@@ -47,3 +51,10 @@ assets/bootstrap/js/bootstrap.bundle.min.js
 assets/bootstrap/js/bootstrap.bundle.min.js.map
 assets/bootstrap/js/bootstrap.js.map
 assets/bootstrap/js/bootstrap.min.js.map
+scripts/.DS_Store
+images/.DS_Store
+images/SVG/.DS_Store
+styles/.DS_Store
+styles/fonts/.DS_Store
+
+
